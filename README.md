@@ -1,6 +1,6 @@
 # paraphrase-identification
 
-Collaborators:
+Collaborators:  
 Thomas Glucksman  
 Ziqi Huang  
 Daniel (Zeyu) Wang  
