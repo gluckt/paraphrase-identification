@@ -1,4 +1,4 @@
-# paraprhase-identification
+# paraphrase-identification
 
 Collaborators:
 Thomas Glucksman  
